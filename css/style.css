@@ -1,0 +1,23 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(https://www.gaulan.es/487520-large_default/isabella-121403.jpg);
+}
+.result{
+    text-align: center;
+}
+
+button{
+    font-size: 20px;
+    font-weight: 700;
+    color:rgba(173, 47, 47, 0.904);
+   background-color:beige;
+   margin-top: 20px;
+}
+
+.imgtitulo{
+    width: 550px;
+}
